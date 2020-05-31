@@ -100,3 +100,4 @@ contribution process easy and effective for everyone involved.
 [npm-url]: https://www.npmjs.com/package/normalize.css
 [gitter-image]: https://img.shields.io/badge/chat-gitter-blue.svg?style=flat-square
 [gitter-url]: https://gitter.im/necolas/normalize.css
+[Quoteish](https://www.quoteish.org/) - A collection of famous quotes and sayings.
